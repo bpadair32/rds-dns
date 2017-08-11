@@ -1,0 +1,14 @@
+{
+  "name": "rds-dns",
+  "version": "0.0.1",
+  "description": "A tool for adding Route 53 addresses for RDS instances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brad Adair",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.95.0"
+  }
+}
