@@ -1,4 +1,4 @@
-#RDS-DNS
+# RDS-DNS
 This is a Node based application that finds all of your RDS instances in the
 specificed region and then gets there IP address and updates the specified route53
 zone with that address.
@@ -15,4 +15,4 @@ As I have free time, I may make those environment variables or something else mo
 flexible. I may also make it a Node module down the road, but right now, I don't really
 have the time for that.
 
-## Created by Brad Adair. brad@adair.tech
+#### Created by Brad Adair. brad@adair.tech
