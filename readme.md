@@ -1,6 +1,6 @@
 # RDS-DNS
 This is a Node based application that finds all of your RDS instances in the
-specificed region and then gets there IP address and updates the specified route53
+specified region and then gets there IP address and updates the specified route53
 zone with that address.
 
 I created this specifically to solve a problem that I was having, which was I had
